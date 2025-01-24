@@ -1,16 +1,16 @@
 # Site settings
 title: Sumit Kumar Jha
-email: your.email@example.com
+email: sumitkjha7788@gmail.com
 description: >- 
-  Welcome to my portfolio! I'm a passionate developer with expertise in [your skills]. 
+  Welcome to my portfolio! I'm a passionate developer with expertise in AI/ML and Data. 
   Here, you'll find my projects, blog posts, and more about my journey in tech.
-baseurl: "" # Subpath of your site, e.g., /blog
-url: "" # Your website's base URL (e.g., https://yourusername.github.io)
+baseurl: "www.linkedin.com/in/" # Subpath of your site, e.g., /blog
+url: "sumit-kumar-jha-7788vampyr"
 
 # Social media usernames (optional)
-github_username: yourusername
+github_username: sumitkumarjha7788
 twitter_username: yourusername
-linkedin_username: yourusername
+linkedin_username: sumit-kumar-jha-7788vampyr
 instagram_username: yourusername
 
 # Build settings
