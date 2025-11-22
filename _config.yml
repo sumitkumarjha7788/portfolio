@@ -1,0 +1,64 @@
+# Site settings
+title: Sumit Kumar Jha
+email: sumitkjha7788@gmail.com
+description: >- 
+  Welcome to my portfolio! I'm a passionate developer with expertise in AI/ML and Data. 
+  Here, you'll find my projects, blog posts, and more about my journey in tech.
+baseurl: "www.linkedin.com/in/" # Subpath of your site, e.g., /blog
+url: "sumit-kumar-jha-7788vampyr"
+
+# Social media usernames (optional)
+github_username: sumitkumarjha7788
+twitter_username: yourusername
+linkedin_username: sumit-kumar-jha-7788vampyr
+instagram_username: yourusername
+
+# Build settings
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Optional: Add a logo or avatar
+avatar: assets/images/avatar.jpg # Path to your profile picture or logo
+
+# Optional: Enable or disable download buttons for your resume or projects
+show_downloads: true
+
+# Optional: Customize navigation links
+navbar_links:
+  - name: About
+    url: /about/
+  - name: Projects
+    url: /projects/
+  - name: Blog
+    url: /blog/
+  - name: Contact
+    url: /contact/
+
+# Optional: Add a custom footer
+footer:
+  message: "Made with ❤️ by Sumit Kumar Jha"
+  links:
+    - name: Privacy Policy
+      url: /privacy/
+    - name: Terms of Use
+      url: /terms/
+
+# Optional: SEO and analytics
+seo:
+  title: Sumit Kumar Jha - Portfolio
+  description: Portfolio of Sumit Kumar Jha, showcasing projects, skills, and blog posts.
+  keywords: portfolio, developer, projects, blog, tech
+  author: Sumit Kumar Jha
+
+google_analytics: UA-XXXXXX-X # Replace with your Google Analytics ID
+
+# Optional: Enable comments (e.g., using Disqus)
+comments:
+  provider: disqus
+  disqus:
+    shortname: your-disqus-shortname # Replace with your Disqus shortname
+
+# Optional: Add a custom favicon
+favicon: assets/images/favicon.ico
